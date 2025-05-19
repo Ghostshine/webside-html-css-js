@@ -74,6 +74,7 @@ main#bg .right {
 }
 
 menu {
+    position: sticky;
     display: flex;
     align-items: center;
     justify-content: space-between;
