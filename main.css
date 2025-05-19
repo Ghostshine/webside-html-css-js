@@ -75,7 +75,6 @@ main#bg .right {
 }
 
 menu {
-    position: sticky;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -88,7 +87,7 @@ menu {
 
 .container {
     display:flex;
-    width: 50%;
+    width: 30%;
   }
 
 .menu-container {
@@ -99,12 +98,12 @@ menu {
 
 .menu-items {
   display: flex;
+    margin:10px;
 }
 
 .menu-items li {
   list-style: none;
   margin-left: 1rem;
-  margin-bottom: 0.5rem;
   font-size: 1.2rem;
 }
 
