@@ -85,6 +85,7 @@ menu {
 }
 
 .container {
+    display:flex;
     width: 50%;
   }
 
@@ -95,7 +96,6 @@ menu {
 }
 
 .menu-items {
-  order: 2;
   display: flex;
 }
 
