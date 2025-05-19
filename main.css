@@ -87,6 +87,7 @@ menu {
 }
 
 .container {
+    float:right;
     display:flex;
     width: 50%;
   }
